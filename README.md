@@ -10,5 +10,11 @@ results.
 ## How to use
 
 ```bash
-$ python3 main.py <target.com|123.456.789.101>
+$ python3 main.py site.com
+```
+
+or
+
+```bash
+$ python3 main.py 123.456.789.101
 ```
